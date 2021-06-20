@@ -1,16 +1,10 @@
 <div align=center>
 
-### Hi, I'm 837477 ✋🏻
+### Hi, I'm 837477 <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="30">
 
 Sometimes people ask me, "what does 837477 mean ?"
 
-Umm... This is just my name changed to ASCII ! 😅
-  
-And sometimes I add a '0' after this one.
-
-Then, ask me again. "What is 0 ?"
-
-If you're a developer, you're right what you're thinking right now. 😂
+Ummm... this just change to my Korean name to ASCII 😅
 
 <br>
 <br>
