@@ -1,11 +1,38 @@
-<div align="center">
-
-### Hello! I'm [@837477](https://837477.github.io/#about-me) (Jeongmin, Seo) 👋🏻
-
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F837477&count_bg=%23000000&title_bg=%23000000&icon=&icon_color=%23000000&title=visits&edge_flat=true)
+```
+~ whoami
+Hello, I am 837477 (Jeongmin, Seo) 👋🏻
 Sometimes people ask me, "what does 837477 mean ?"
+Hmm.. It doesn't mean much, it's just that I changed the initials of my name to ASCII code. 😅
 
-Hmm.. It is just changing  my Korean name to ASCII 😅
+~ python
+Python 3.10.10 (main, May  8 2023, 14:36:19) [Clang 14.0.3 (clang-1403.0.22.14.1)] on darwin
+Type "help", "copyright", "credits" or "license" for more information.
+>>> import this
+The Zen of Python, by Tim Peters
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F837477&count_bg=%232E73CF&title_bg=%23564A4A&icon=aiqfome.svg&icon_color=%23FFFFFF&title=Visitor&edge_flat=false)](https://hits.seeyoufarm.com)
+Beautiful is better than ugly.
+Explicit is better than implicit.
+Simple is better than complex.
+Complex is better than complicated.
+Flat is better than nested.
+Sparse is better than dense.
+Readability counts.
+Special cases aren't special enough to break the rules.
+Although practicality beats purity.
+Errors should never pass silently.
+Unless explicitly silenced.
+In the face of ambiguity, refuse the temptation to guess.
+There should be one-- and preferably only one --obvious way to do it.
+Although that way may not be obvious at first unless you're Dutch.
+Now is better than never.
+Although never is often better than *right* now.
+If the implementation is hard to explain, it's a bad idea.
+If the implementation is easy to explain, it may be a good idea.
+Namespaces are one honking great idea -- let's do more of those!
+>>>
+```
 
-</div>
+### about
+- portfolio: https://837477.github.io/
+- e-mail: 8374770@gmail.com
