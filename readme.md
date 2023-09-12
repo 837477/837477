@@ -3,5 +3,5 @@
 ~ whoami
 Hello, I am 837477 (Jeongmin, Seo) 👋🏻
 Sometimes people ask me, "what does 837477 mean ?"
-Hmm.. It doesn't mean much, it's just that I changed the initials of my name to ASCII code. 😅
+it's just that I changed the initials of my name to ASCII code. 😅
 ```
