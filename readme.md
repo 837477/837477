@@ -7,5 +7,5 @@ If you’re curious about me, contact me anytime!
 
 📧 E-mail: 8374770@gmail.com
 🐱 Github: https://github.com/837477
-🌐 My website: https://837477.com
+🌐 My website: https://837477.me
 ```
