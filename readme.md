@@ -1,11 +1,17 @@
-```
-~ whoami
-Hey! I'm 837477 (Jeongmin, Seo) 👋🏻
-I'm a software developer from Korea. 🇰🇷
-I mainly do backend server development.
-If you’re curious about me, contact me anytime!
+<pre>
+GNU nano 8.3                     <a href="https://837477.xyz">837477.xyz</a>
 
-📧 E-mail: 8374770@gmail.com
-🐱 Github: https://github.com/837477
-🌐 My website: https://837477.xyz
-```
+▛▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▜
+▌            8  3  7  4  7  7             ▐▒
+▌            server engineer              ▐▒
+▙▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▟▒
+ ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒
+
+hey, nice to meet you! ☺️
+
+i'm a server developer based in seoul. 🇰🇷
+curious about me?
+→ <a href="https://837477.xyz">837477.xyz</a>
+
+^G Get Help   ^O WriteOut   ^W Where is   ^X Exit
+</pre>
